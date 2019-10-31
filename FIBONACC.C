@@ -2,7 +2,7 @@
 #include<conio.h>
 void main()
 {
- int a=0,b=1,n,c,i;
+ int a=0,b=1,n,c,i,d;
  clrscr();
  printf("Enter the number of terms: ");
  scanf("%d",&n);
